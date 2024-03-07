@@ -1,0 +1,7 @@
+Test01
+This test tries to generate a few functions to do basic maths operations.
+CoPilot can give the codes for simple ones or relatively less simple one such as IsPrime and Factorial.
+But CoPilot cannot give the codes for NextNumber function which is not very straightforward.
+
+Suggestions can be varied depending on the language
+Test01 of C# and Python are not the same - where the implementation just follows the suggestion code until trying with the complicated function NextNumber
